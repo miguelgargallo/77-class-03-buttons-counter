@@ -1,2 +1,2 @@
-# 77-class-03-buttons-counter
+# ejercicio_clase_contador_mejorado_bootcamp
 Created with CodeSandbox
